@@ -1,0 +1,20 @@
+{
+  "name": "blank",
+  "version": "0.1.0",
+  "private": false,
+  "description": "tanksjs",
+  "author": "Crihalix",
+  "license": "UNLICENSED",
+  "repository": "https://github.com/Crihalix/blank",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-iconfont": "^1.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0"
+  }
+}
